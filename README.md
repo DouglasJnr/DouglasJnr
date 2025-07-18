@@ -1,41 +1,65 @@
-<div id="header" align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTU2MGJnb3oydjB6MHJoazNreWNiODZ5Nmp6dG9seHNodHR1cXZ5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width = "100"/>
+<div id="header">
+<img src= "https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width = "1000" height="400"/>
 </div>  
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/douglas-junior-tanyanyiwa-111a08106?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://x.com/yxng_jnr">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+
 <h1 align="center">
-  Hey there!
+  Hi, I'm Douglas!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <br/> <a href="https://github.com/douglasjnr">Programmer</a> & <a href="https://www.linkedin.com/in/douglas-junior-tanyanyiwa/">CS Student</a>
 </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 ---
 
-### :man_technologist: I am a junior Computer Science major <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Zimbabwe.
+- :man_technologist: Studying Computer Science @ Kennesaw State University & current AI/ML Fellow @ Break Through Tech <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- :telescope: I’m working on becoming a Software Engineer or focusing on Artificial Intelligence and machine learning.
+- :telescope: Aspiring Software Engineer with a focus in Artificial Intelligence and Machine Learning.
 
 - :seedling: Exploring the various fields within computer science.
 
-- :zap: In my free time, I enjoy gaming, and learning a new skill (whether that's playing guitar, a new programming language, or soft skills I enjoy them all).
+- :zap: In my free time, I enjoy gaming, playing soccer and learning a new skill (whether that's playing guitar, a new programming language, or soft skills I enjoy them all).
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Douglas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-junior-tanyanyiwa-111a08106?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app")
+- :bulb: Ready to innovate, code and collaborate with other brilliant minds!
 
 ---
 
-### :hammer_and_wrench: Languages and Tools : <div>
+## :hammer_and_wrench: Languages and Tools : <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikitlearn" alt="Scikitlearn" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Kera" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+<h2> Software Development Projects </h2>
+
+- <b>Data Structures and Algorithms Practice (LeetCode & NeetCode)</b>
+  - [Practicing DSA in Python]
+- <b>Python</b>
+  - [Automated Password Generator]
+- <b>Machine Learning</b>
+
+---
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=douglasjnr&theme=aura&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=douglasjnr&theme=aura&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasjnr&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+<h2> :link: Connect with me:</h2>
+
+[<img align="left" alt="DouglasTanyanyiwa | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="DouglasTanyanyiwa | Instagram" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[linkedin]: https://www.linkedin.com/in/douglas-junior-tanyanyiwa
+[instagram]: https://www.instagram.com/yxng_jnr
+
 
