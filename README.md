@@ -43,7 +43,7 @@
 - <b>Data Structures and Algorithms Practice (LeetCode & NeetCode)</b>
   - [Practicing DSA in Python]
 - <b>Python</b>
-  - [Automated Password Generator]
+  - [Automated Password Generator](https://www.github.com/douglasjnr/password-generator/)
 - <b>Machine Learning</b>
 
 ---
