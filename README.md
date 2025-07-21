@@ -41,7 +41,7 @@
 <h2> Software Development Projects </h2>
 
 - <b>Data Structures and Algorithms Practice (LeetCode & NeetCode)</b>
-  - [Practicing DSA in Python]
+  - [Practising DSA in Python]
 - <b>Python</b>
   - [Automated Password Generator](https://www.github.com/douglasjnr/password-generator/)
 - <b>Machine Learning</b>
@@ -56,9 +56,11 @@
 ---
 <h2> :link: Connect with me:</h2>
 
+[<img align="left" alt="DouglasTanyanyiwa | Email" width="22" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][email]
 [<img align="left" alt="DouglasTanyanyiwa | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="DouglasTanyanyiwa | Instagram" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[email]: junior.dougyt@gmail.com
 [linkedin]: https://www.linkedin.com/in/douglas-junior-tanyanyiwa
 [instagram]: https://www.instagram.com/yxng_jnr
 
