@@ -41,7 +41,7 @@
 <h2> Software Development Projects </h2>
 
 - <b>Data Structures and Algorithms Practice (LeetCode & NeetCode)</b>
-  - [Practising DSA in Python]
+  - [Practising DSA in Python](https://www.github.com/douglasjnr/leetcode-practice/)
 - <b>Python</b>
   - [Automated Password Generator](https://www.github.com/douglasjnr/password-generator/)
 - <b>Machine Learning</b>
