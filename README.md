@@ -60,7 +60,7 @@
 [<img align="left" alt="DouglasTanyanyiwa | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="DouglasTanyanyiwa | Instagram" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[email]: junior.dougyt@gmail.com
+[email]: mailto:junior.dougyt@gmail.com
 [linkedin]: https://www.linkedin.com/in/douglas-junior-tanyanyiwa
 [instagram]: https://www.instagram.com/yxng_jnr
 
