@@ -51,6 +51,7 @@
 - <b>Python</b>
   - [Automated Password Generator](https://www.github.com/douglasjnr/password-generator/)
 - <b>Machine Learning</b>
+  - [Twitter Sentiment Analysis](https://www.github.com/douglasjnr/sentiment-analysis/)
 
 ---
 
