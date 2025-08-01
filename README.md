@@ -44,6 +44,14 @@
 
 ---
 
+## Licenses and Certifications: <div>
+  ### Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+  <img src="https://github.com/douglasjnr/certs/OCI25AICFA.jpeg" title="AI Foundations" alt="AI Foundations" width="40" height="40"/>&nbsp; 
+  
+</div>
+
+---
+
 <h2> Software Development Projects </h2>
 
 - <b>Data Structures and Algorithms Practice (LeetCode & NeetCode)</b>
